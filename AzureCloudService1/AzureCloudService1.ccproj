@@ -49,9 +49,18 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="APIContent\" />
+    <Folder Include="APIContent\bin" />
   </ItemGroup>
   <ItemGroup>
     <DiagnosticsConfiguration Include="APIContent\diagnostics.wadcfgx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="APIContent\bin\install.cmd">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="APIContent\bin\NDP461-KB3102438-Web.exe">
+      <SubType>Content</SubType>
+    </Content>
   </ItemGroup>
   <!-- Import the target files for this project template -->
   <PropertyGroup>

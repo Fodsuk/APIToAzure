@@ -111,3 +111,4 @@ C:\Code\APIToAzure\APIToAzure\API\bin\zh-Hans\System.Spatial.resources.dll
 C:\Code\APIToAzure\APIToAzure\API\bin\zh-Hant\System.Spatial.resources.dll
 C:\Code\APIToAzure\APIToAzure\API\obj\Debug\API.dll
 C:\Code\APIToAzure\APIToAzure\API\obj\Debug\API.pdb
+C:\Code\APIToAzure\APIToAzure\API\obj\Debug\API.csprojResolveAssemblyReference.cache
