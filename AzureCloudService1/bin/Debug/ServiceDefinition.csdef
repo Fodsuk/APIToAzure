@@ -27,6 +27,12 @@
       <Content destination=".\">
         <SourceDirectory path="C:\Code\APIToAzure\APIToAzure\AzureCloudService1\rcf\Debug\APIContent\" />
       </Content>
+      <Content destination=".\">
+        <SourceDirectory path="C:\Code\APIToAzure\APIToAzure\AzureCloudService1\ecf\APIContent\" />
+      </Content>
     </Contents>
+    <Imports>
+      <Import moduleName="Diagnostics" />
+    </Imports>
   </WebRole>
 </ServiceDefinition>
